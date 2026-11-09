@@ -1,4 +1,4 @@
-
+"""
 import os
 import sys
 import time
@@ -282,3 +282,4 @@ def silent_failure(player):
     except:
         pass
 
+"""
